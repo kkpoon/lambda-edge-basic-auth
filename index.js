@@ -1,5 +1,5 @@
-const username = process.env.username;
-const password = process.env.password;
+const username = "YOUR_BASIC_AUTH_USERNAME";
+const password = "YOUR_BASIC_AUTH_PASSWORD";
 
 const unauthResp = {
     status: "401",
